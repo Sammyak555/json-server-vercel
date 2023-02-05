@@ -2,8 +2,20 @@
   "posts": [
     { "id": 1, "title": "json-server", "author": "typicode" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "furniture": [
+    {
+      "id": 1,
+			"type":"Study table",
+      "year": 2019,
+      "Description": "Wooden table with dual laptop setup",
+      "Price": 50000
+    },
+    {
+      "id": 2,
+			"type":"chair",
+      "year": 2017,
+      "Description": "Gaming Chair",
+      "Price": 8000
+    }
+  ]
 }
