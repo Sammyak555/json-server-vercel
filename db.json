@@ -4,14 +4,54 @@
   ],
   "books":[
     {
+      "id": 0.29701984223048816,
+      "image_url": "https://m.media-amazon.com/images/I/81ioPZFMeUL._AC._SR360,460.jpg",
+      "book_name": "Alchemist",
+      "author": "chemist",
+      "genre": "fiction",
+      "edition": "2020",
+      "publisher": "Bloomsbury",
+      "cost": "500"
+    },
+    {
+      "id": 3.6988036527537904,
+      "image_url": "https://m.media-amazon.com/images/I/81Wbfijio4L._UX300_PJku-sticker-v7,TopRight,0,-50._AC._SR360,460_.jpg",
+      "book_name": "Chember of secrete",
+      "author": "J.K. Rowling",
+      "genre": "fiction",
+      "edition": "2020",
+      "publisher": "Bloomsbury",
+      "cost": "400"
+    },
+    {
+      "id": 9.722304059690854,
+      "image_url": "https://m.media-amazon.com/images/I/818bGgNn0EL._AC._SR360,460.jpg",
+      "book_name": "Immortals of mehula",
+      "author": "Amish Tripathy",
+      "genre": "history",
+      "edition": "2020",
+      "publisher": "Bloomsbury",
+      "cost": "299"
+    },
+    {
+      "id": 4.01824665786285,
+      "image_url": "https://m.media-amazon.com/images/I/61FFWZNmLaL._AC_UY327_FMwebp_QL65_.jpg",
+      "book_name": "Mind your business",
+      "author": "paper",
+      "genre": "business",
+      "edition": "2020",
+      "publisher": "Bloomsbury",
+      "cost": "1500"
+    },
+    {
+      "id": 3.995280236308727,
       "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
       "book_name": "Harry Potter and the Philosopher's Stone",
       "author": "J. K. Rowling",
       "genre": "fiction",
       "edition": "2021",
       "publisher": "Bloomsbury",
-      "cost": 1299,
-      "borrowed": false
+      "cost": "1299"
     }
   ]
 }
