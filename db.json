@@ -11,7 +11,7 @@
       "genre": "fiction",
       "edition": "2020",
       "publisher": "Bloomsbury",
-      "cost": "500"
+      "cost": 500
     },
     {
       "id": 3.6988036527537904,
@@ -21,7 +21,7 @@
       "genre": "fiction",
       "edition": "2020",
       "publisher": "Bloomsbury",
-      "cost": "400"
+      "cost": 400
     },
     {
       "id": 9.722304059690854,
@@ -31,7 +31,7 @@
       "genre": "history",
       "edition": "2020",
       "publisher": "Bloomsbury",
-      "cost": "299"
+      "cost": 299
     },
     {
       "id": 4.01824665786285,
@@ -41,7 +41,7 @@
       "genre": "business",
       "edition": "2020",
       "publisher": "Bloomsbury",
-      "cost": "1500"
+      "cost": 1500
     },
     {
       "id": 3.995280236308727,
@@ -51,7 +51,7 @@
       "genre": "fiction",
       "edition": "2021",
       "publisher": "Bloomsbury",
-      "cost": "1299"
+      "cost": 1299
     }
   ]
 }
